@@ -93,19 +93,19 @@ end
 local AutoSet = function()
   io.write([[
 
-Please Enter ( BOT OWNER ) ID : ]])
+Please Enter ( 7205834174 ) ID : ]])
   local Bot_Owner_ = tonumber(io.read())
   io.write([[
 
-Please Enter ( BOT ACCOUNT ) ID : ]])
+Please Enter ( 7896663402 ) ID : ]])
   local Bot_ID_ = tonumber(io.read())
   io.write([[
 
-Please Enter ( API BOT ) Token : ]])
+Please Enter ( 7896663402:AAHnr8hXJqRQZUWOehIYdEU4ZJzuRmsAO8A ) Token : ]])
   local Token_ = tostring(io.read())
   io.write([[
 
-Please Enter ( License ) Code : ]])
+Please Enter ( HeartGuys ) Code : ]])
   local License_ = tostring(io.read())
   io.write([[
 
